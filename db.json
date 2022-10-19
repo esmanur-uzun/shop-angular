@@ -17,19 +17,12 @@
       "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80"
     },
     {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
+      "name": "Telefon",
+      "description": "IPhone 8 plus",
+      "imageUrl": "https://productimages.hepsiburada.net/s/31/1500/10352776446002.jpg",
+      "price": "8000",
+      "categoryId": "1",
       "id": 6
-    },
-    {
-      "id": 7
     }
   ],
   "categories": [

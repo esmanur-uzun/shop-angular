@@ -20,14 +20,7 @@ export class ProductService {
 
   addProduct(product: Product):Observable<Product>{
 
-    const httpOptions={
-      headers: new HttpHeaders({
-        'Content-Type':'applicaiton/json',
-        'Authorization':'Token'
-      })
-    }
-
-    return this.http.post<Product>(this.path,product,httpOptions)
+    return this.http.post<Product>(this.path,product)
 
   }
 }
