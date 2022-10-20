@@ -23,6 +23,14 @@
       "price": "8000",
       "categoryId": "1",
       "id": 6
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Arçelik ",
+      "imageUrl": "https://www.enpazar.com/UserFiles/ProductImages/0/7282120192/orj/arcelik-274580-edi-74-cm-dark-inoks-no-frost-buzdolabi-71346.jpg",
+      "price": "10000",
+      "categoryId": "1",
+      "id": 7
     }
   ],
   "categories": [
